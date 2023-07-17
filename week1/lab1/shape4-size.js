@@ -31,4 +31,5 @@ rl.question('Enter the size: ', (size) => {
     console.log(shape);
     rl.close();
    });
+   
 //node lab1/shape4-size.js
